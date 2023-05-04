@@ -19,7 +19,7 @@ Hi! I'm a rising senior at Cornell University studying Electrical and Computer E
 - 🔭 I’m currently working on finishing up my spring semester at Cornell University
 - 🌱 I’m currently learning open-source ASIC design and flows
 - 💬 Ask me about computer engineering (from RTL to VLSI)
-- 📫 How to reach me: The best way is probably [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:acm289@cornell.edu) 
+- 📫 How to reach me: The best way is probably [email](mailto:acm289@cornell.edu) 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can juggle clubs!
 
