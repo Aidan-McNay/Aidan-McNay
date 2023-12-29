@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 Aidan McNay
-Hi! I'm a rising senior at Cornell University studying Electrical and Computer Engineering<br>Strengths include Digital RTL design and testing, as well as automating work around me.<br><br>Feel free to reach out - always willing to learn more and get involved!
+Hi! I'm a senior at Cornell University studying Electrical and Computer Engineering<br>Strengths include Digital RTL design and testing, as well as automating work around me.<br><br>Feel free to reach out - always willing to learn more and get involved!
 
 - 🔭 I’m currently a senior at Cornell University studying Electrical and Computer Engineering, planning to continue to get my Masters Degree
 - 🌱 I’m currently learning open-source ASIC design and flows
