@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 Aidan McNay
-Hi! I'm a M.Eng student at Cornell University studying Electrical and Computer Engineering<br>Strengths include Digital RTL design and testing, as well as automating work around me.<br><br>Feel free to reach out - always willing to learn more and get involved!
+Hi! I'm an ASIC Design Engineer at NVIDIA, working on the next generation of computing machines. In my free time, I enjoy build systems and development tools, ultimate frisbee, audio engineering, and circus performance.
 
-- 🔭 I’m currently a M.Eng student at Cornell University studying Electrical and Computer Engineering, focusing on Computer Architecture
 - 🌱 I’m currently learning [Rust](https://github.com/Aidan-McNay/scarf) and [Go](https://github.com/Aidan-McNay/jeopardy)
 - 💬 Ask me about computer engineering (from RTL to VLSI)
 - 📫 How to reach me: The best way is probably [email](mailto:acm289@cornell.edu) 
